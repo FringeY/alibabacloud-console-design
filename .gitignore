@@ -17,6 +17,7 @@ packages/*/lib/
 build/
 dist/
 coverage/
+lib/
 
 # misc
 
@@ -26,5 +27,5 @@ coverage/
 site/public
 site/node_modules
 
-
+package-lock.json
 yarn.lock
